@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tickets>
+    <ticket>
+        <tags>
+            <tag>TROUBLE</tag>
+            <tag>REALLY-BAD</tag>
+        </tags>
+        <comments>
+            <comment>
+                <author>poul.user@acme.com</author>
+                <text>God save us</text>
+                <timestamp>1372246114044</timestamp>
+            </comment>
+        </comments>
+        <id>T-1</id>
+        <reporter>jonh.smith@acme.com</reporter>
+        <status>OPEN</status>
+        <text>Something really bad has happened</text>
+        <timestamp>1372246114044</timestamp>
+        <title>Big trouble</title>
+    </ticket>
+    <ticket>
+        <tags>
+            <tag>GRAVE-DANGER</tag>
+            <tag>TROUBLE</tag>
+        </tags>
+        <comments>
+            <comment>
+                <author>bad.admin@acme.com</author>
+                <text>Rejected due to lack of details</text>
+                <timestamp>1372246114044</timestamp>
+            </comment>
+        </comments>
+        <id>T-2</id>
+        <reporter>piter.pen@acme.com</reporter>
+        <status>CANCELED</status>
+        <text>Help! Help! Help!</text>
+        <timestamp>1372246114044</timestamp>
+        <title>SOS</title>
+    </ticket>
+</tickets>
